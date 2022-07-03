@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = ssh://git@github.com/ramongonze/ramongonze.github.io.git
-	branch = main
