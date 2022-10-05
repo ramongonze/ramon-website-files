@@ -65,4 +65,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-MSc student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and methods to mitigate privacy breaches, in particular, differential privacy and related work.
+MSc student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and models to characterize vulnerabilities in data publications.
+
+More about QIF: [Topete Research Group](https://topete.science/)

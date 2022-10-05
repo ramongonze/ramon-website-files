@@ -30,7 +30,7 @@ experience:
     date_start: '2022-02-14'
     date_end: '2022-03-27'
     description: |2-
-        Trabalhou juntamente com Catuscia Palamidessi e Mário Albom em modelos de privacidade utilizando Fluxo de Informação Quantitativo (QIF) para quantificar a vulnerabilidade de sistemas que utilizam privacidade diferencial e *shuffling* como métodos de proteção à privacidade.
+        Trabalhou juntamente com Catuscia Palamidessi e Mário Alvim em modelos de privacidade utilizando Fluxo de Informação Quantitativo (QIF) para quantificar a vulnerabilidade de sistemas que utilizam privacidade diferencial e *shuffling* como métodos de proteção à privacidade.
   
   - title: Iniciação Científica
     company: 'Departamento de Ciência da Computação, Universidade Federal de Minas Gerais'

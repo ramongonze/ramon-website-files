@@ -65,4 +65,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-Estudante de mestrado em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo e métodos para a mitigação de riscos à privacidade, em particular, privacidade diferencial e trabalhos relacionados.
+Estudante de mestrado em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo (QIF) e modelos que buscam caracterizar vulnerabilidades em publicação de dados.
+
+Mais sobre QIF: [Topete Research Group](https://topete.science/)
