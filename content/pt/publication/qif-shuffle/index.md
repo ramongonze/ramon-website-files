@@ -1,6 +1,6 @@
 ---
 title: 'Analyzing the Shuffle Model through the Lens of Quantitative Information Flow'
-subtitle: '(Under review)'
+subtitle: '(sob revisão)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,11 +25,11 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 36th IEEE Computer Security Foundations Symposium (CSF)*
-publication_short: In *CSF*
+publication: Relatório técnico
+publication_short: Relatório técnico
 
 abstract: |2-
   Local differential privacy (LDP) was developed to avoid the necessity of a trusted central curator, but many implementations do so at the cost of accuracy. In response, the shuffle model has emerged as a way to provide greater anonymity to users by randomly permuting the messages such that the connection between users and values is lost. By combining a LDP mechanism with a shuffler, privacy can be improved at no cost for accuracy, thereby improving the trade-off between privacy and utility. However, the privacy implications of the shuffle layer are not always immediate nor are the derivations of the privacy bounds easy to understand. 

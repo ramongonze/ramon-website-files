@@ -27,6 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: PRICE
+      tag: price
     - name: QIF Graphics
       tag: qif-graphics
     - name: QIF library
