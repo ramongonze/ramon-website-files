@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: PRICE
-      tag: price
+      tag: PRICE
     - name: QIF Graphics
       tag: qif-graphics
     - name: QIF library

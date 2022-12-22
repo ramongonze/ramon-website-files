@@ -3,8 +3,8 @@ title: PRICE
 summary: The PRICE project was a study ordered by the Brazilian institution Inep -- responsible for publishing the Brazilian educational censuses -- to measure the privacy risks of publishing censuses the way the institution did until 2019 and also to learn how to publish the censuses keeping citizens privacy at the same time the data still remains util for statistical research.
 
 tags:
-  - 'price'
-  - 'inep'
+  - 'PRICE'
+  - 'Inep'
 date: '2020-07-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
