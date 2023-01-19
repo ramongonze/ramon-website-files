@@ -14,7 +14,7 @@ organizations:
     url: https://ufmg.br/international-visitors
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and methods to mitigate privacy breaches, in particular, differential privacy and related work.
+bio: PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) a formal model for interpreting privacy as resistance to inferences.
 
 # Interests to show in About widget
 interests:
@@ -68,6 +68,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-PhD student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and models to characterize vulnerabilities in data publications.
+PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) a formal model for interpreting privacy as resistance to inferences.
 
 More about QIF: [Topete Research Group](https://topete.science/)

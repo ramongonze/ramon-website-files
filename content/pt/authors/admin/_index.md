@@ -14,7 +14,8 @@ organizations:
     url: https://ufmg.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo e métodos para a mitigação de riscos à privacidade, em particular, privacidade diferencial e trabalhos relacionados.
+bio: Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
+
 # Interests to show in About widget
 interests:
   - Teoria da Informação
@@ -67,6 +68,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-Doutorando em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo (QIF) e modelos que buscam caracterizar vulnerabilidades em publicação de dados.
+Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
 
 Mais sobre QIF: [Topete Research Group](https://topete.science/)
