@@ -30,7 +30,7 @@ experience:
     date_start: '2022-02-14'
     date_end: '2022-03-27'
     description: |2-
-        Worked in cooperation with Catuscia Palamidessi and Mário Alvim on privacy models, using the framework of Quantitative Information Flow (QIF), to quantify the vulnerability of systems that use differential privacy and shuffling as a privacy protection method.
+        Worked in cooperation with [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia) and [Mário Alvim](https://homepages.dcc.ufmg.br/~msalvim/) on privacy models, using the framework of Quantitative Information Flow (QIF), to quantify the vulnerability of systems that use differential privacy and shuffling as a privacy protection method.
   
   - title: Undergradute Researcher
     company: 'Computer Science Department, Universidade Federal de Minas Gerais'

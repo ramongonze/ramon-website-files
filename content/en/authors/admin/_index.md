@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Ramon Gonçalves Gonze
+title: Ramon G. Gonze
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSc student
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidade Federal de Minas Gerais (UFMG)
-    url: https://ufmg.br/
+  - name: Federal University of Minas Gerais (UFMG)
+    url: https://ufmg.br/international-visitors
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and methods to mitigate privacy breaches, in particular, differential privacy and related work.
+bio: PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and methods to mitigate privacy breaches, in particular, differential privacy and related work.
 
 # Interests to show in About widget
 interests:
@@ -26,11 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Federal University of Minas Gerais (UFMG)
+      year: 2023 - present
     - course: MSc in Computer Science
-      institution: Universidade Federal de Minas Gerais (UFMG)
-      year: 2020 - present
+      institution: Federal University of Minas Gerais (UFMG)
+      year: 2020 - 2023
     - course: BSc in Information Systems
-      institution: Universidade Federal de Minas Gerais (UFMG)
+      institution: Federal University of Minas Gerais (UFMG)
       year: 2016 - 2020
     - course: Associate's Degree, Information Technology
       institution: Fundação de Ensino de Contagem (FUNEC)
@@ -65,6 +68,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-MSc student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and models to characterize vulnerabilities in data publications.
+PhD student in Computer Science at UFMG currently studying Quantitative Information Flow (QIF) and models to characterize vulnerabilities in data publications.
 
 More about QIF: [Topete Research Group](https://topete.science/)

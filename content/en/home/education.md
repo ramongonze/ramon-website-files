@@ -22,20 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MSc Student
-    company: 'Universidade Federal de Minas Gerais'
-    company_url: 'https://ufmg.br/'
+  - title: PhD in Computer Science
+    company: 'Federal University of Minas Gerais'
+    company_url: 'https://ufmg.br/international-visitors'
+    company_logo: ufmg_logo
+    location: 'Belo Horizonte, Minas Gerais, Brazil'
+    date_start: '2023-02-01'
+    description: |2-
+        Studying a formal model for interpreting privacy as resistance to inferences.
+
+  - title: MSc in Computer Science
+    company: 'Federal University of Minas Gerais'
+    company_url: 'https://ufmg.br/international-visitors'
     company_logo: ufmg_logo
     location: 'Belo Horizonte, Minas Gerais, Brazil'
     date_start: '2020-10-01'
+    date_end: '2023-01-11'
     description: |2-
-        Studying Information Theory focusing on Quantitative Information Flow under the supervision of professor Mário Sérgio Alvim. Currently working in models that quantify information leakage in data publications.
-        
+        [CAPES](https://www.gov.br/capes/pt-br) scholarship at the [Graduate Program in Computer Science](https://ppgcc.dcc.ufmg.br/en).
+
+        Thesis defended and approved in January 11, 2023, titled [A Quantitative Information Flow Model for Attribute-Inference Attacks and Utility in Data Releases by Sampling]({{< ref "publication/master_thesis/index" >}}).
+
+        Advised by professor [Mário Sérgio Alvim](https://homepages.dcc.ufmg.br/~msalvim).
+
         Member of the team that executed the [PRICE (Privacidade nos Censos Educacionais) project](https://inscrypt.dcc.ufmg.br/pt/project/price), a cooperation between the Department of Computer Science of UFMG and Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira). Studied methods to control data disclosure, focused specially in those based in differential privacy. Helped in creating data disclosure alternatives for Inep's educational census publication.
   
   - title: BSc in Information Systems
-    company: 'Computer Science Department, Universidade Federal de Minas Gerais'
-    company_url: 'https://ufmg.br/'
+    company: 'Computer Science Department, Federal University of Minas Gerais'
+    company_url: 'https://ufmg.br/international-visitors'
     company_logo: ufmg_logo
     location: 'Belo Horizonte, Minas Gerais, Brazil'
     date_start: '2016-01-01'

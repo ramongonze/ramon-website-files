@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ramon Gonçalves Gonze
+title: Ramon G. Gonze
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Estudante de mestrado
+role: Doutorando em Ciência da Computação
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,8 +14,7 @@ organizations:
     url: https://ufmg.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudante de mestrado em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo e métodos para a mitigação de riscos à privacidade, em particular, privacidade diferencial e trabalhos relacionados.
-
+bio: Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo e métodos para a mitigação de riscos à privacidade, em particular, privacidade diferencial e trabalhos relacionados.
 # Interests to show in About widget
 interests:
   - Teoria da Informação
@@ -26,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doutorado em Ciência da Computação
+      institution: Universidade Federal de Minas Gerais (UFMG)
+      year: 2023 - presente
     - course: Mestrado em Ciência da Computação
       institution: Universidade Federal de Minas Gerais (UFMG)
-      year: 2020 - present
+      year: 2020 - 2023
     - course: Bacharelado em Sistemas de Informação
       institution: Universidade Federal de Minas Gerais (UFMG)
       year: 2016 - 2020
@@ -65,6 +67,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-Estudante de mestrado em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo (QIF) e modelos que buscam caracterizar vulnerabilidades em publicação de dados.
+Doutorando em Ciência da Computação na UFMG, atualmente estudando Fluxo de Informação Quantitativo (QIF) e modelos que buscam caracterizar vulnerabilidades em publicação de dados.
 
 Mais sobre QIF: [Topete Research Group](https://topete.science/)

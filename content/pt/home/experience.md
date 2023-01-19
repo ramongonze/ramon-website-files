@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Pesquisador visitante
+  - title: Estudante visitante
     company: Inria Saclay - École Polytechnique de Paris
     company_url: 'https://www.inria.fr/en'
     company_logo: inr_logo_rouge
-    location: Campus de l'École Polytechnique, Palaiseau, France
+    location: Campus de l'École Polytechnique, Palaiseau, França
     date_start: '2022-02-14'
     date_end: '2022-03-27'
     description: |2-
-        Trabalhou juntamente com Catuscia Palamidessi e Mário Alvim em modelos de privacidade utilizando Fluxo de Informação Quantitativo (QIF) para quantificar a vulnerabilidade de sistemas que utilizam privacidade diferencial e *shuffling* como métodos de proteção à privacidade.
+        Trabalhou juntamente com [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) e [Mário Alvim](https://homepages.dcc.ufmg.br/~msalvim/) em modelos de privacidade utilizando Fluxo de Informação Quantitativo (QIF) para quantificar a vulnerabilidade de sistemas que utilizam privacidade diferencial e *shuffling* como métodos de proteção à privacidade.
   
   - title: Iniciação Científica
     company: 'Departamento de Ciência da Computação, Universidade Federal de Minas Gerais'
