@@ -12,7 +12,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2023-01-11'
-doi: ''
+doi: 'http://hdl.handle.net/1843/51808'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2022-07-01T00:00:00Z'
@@ -48,7 +48,7 @@ tags: ['Statistical disclosure', 'Sampling', 'Privacy', 'Quantitative Informatio
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://repositorio.ufmg.br/bitstream/1843/51808/1/Ramon_thesis_final_version.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

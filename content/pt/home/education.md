@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Doutorando em Ciência da Computação
+    company: 'Inria, LIX École Polytechnique'
+    company_url: 'https://www.inria.fr/fr/centre-inria-de-saclay'
+    company_logo: inr_logo_rouge
+    location: 'Palaiseau, França'
+    date_start: '2023-03-01'
+    description: |2-
+        Estudando um modelo formal para interpretar privacidade como resistência a inferências.
+
+  - title: Doutorando em Ciência da Computação
     company: 'Universidade Federal de Minas Gerais'
     company_url: 'https://ufmg.br/'
     company_logo: ufmg_logo

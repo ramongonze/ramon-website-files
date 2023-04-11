@@ -10,22 +10,27 @@ role: Doutorando em Ciência da Computação
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Inria, LIX École Polytechnique
+    url: https://www.inria.fr/fr/centre-inria-de-saclay
   - name: Universidade Federal de Minas Gerais (UFMG)
     url: https://ufmg.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
+bio: Doutorando em Ciência da Computação no Inria, LIX École Polytechnique e na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
 
 # Interests to show in About widget
 interests:
-  - Teoria da Informação
   - Fluxo de Informação Quantitativo
   - Privacidade
   - Privacidade diferencial
+  - Teoria da Informação
 
 # Education to show in About widget
 education:
   courses:
+    - course: Doutorado em Ciência da Computação
+      institution: Inria, LIX École Polytechnique
+      year: 2023 - presente
     - course: Doutorado em Ciência da Computação
       institution: Universidade Federal de Minas Gerais (UFMG)
       year: 2023 - presente
@@ -68,6 +73,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-Doutorando em Ciência da Computação na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
+Doutorando em Ciência da Computação no Inria, LIX École Polytechnique e na Universidade Federal de Minas Gerais (UFMG), atualmente estudando Fluxo de Informação Quantitativo (QIF) e um modelo formal para interpretar privacidade como resistência a inferências.
 
 Mais sobre QIF: [Topete Research Group](https://topete.science/)

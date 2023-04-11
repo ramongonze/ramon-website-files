@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD in Computer Science
+    company: 'Inria, LIX École Polytechnique'
+    company_url: 'https://www.inria.fr/fr/centre-inria-de-saclay'
+    company_logo: inr_logo_rouge
+    location: 'Palaiseau, France'
+    date_start: '2023-03-01'
+    description: |2-
+        Studying a formal model for interpreting privacy as resistance to inferences.
+
+  - title: PhD in Computer Science
     company: 'Federal University of Minas Gerais'
     company_url: 'https://ufmg.br/international-visitors'
     company_logo: ufmg_logo

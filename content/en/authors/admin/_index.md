@@ -10,22 +10,27 @@ role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Inria, LIX École Polytechnique
+    url: https://www.inria.fr/fr/centre-inria-de-saclay
   - name: Federal University of Minas Gerais (UFMG)
     url: https://ufmg.br/international-visitors
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and a formal model for interpreting privacy as resistance to inferences.
+bio: PhD student in Computer Science at Inria, LIX École Polytechnique and the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and a formal model for interpreting privacy as resistance to inferences.
 
 # Interests to show in About widget
 interests:
-  - Information Theory
   - Quantitative Information Flow
   - Privacy
   - Differential privacy
+  - Information Theory
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Inria, LIX École Polytechnique
+      year: 2023 - present
     - course: PhD in Computer Science
       institution: Federal University of Minas Gerais (UFMG)
       year: 2023 - present
@@ -68,6 +73,6 @@ email: 'ramongonze@gmail.com'
 highlight_name: true
 ---
 
-PhD student in Computer Science at the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and a formal model for interpreting privacy as resistance to inferences.
+PhD student in Computer Science at Inria, LIX École Polytechnique and the Federal University of Minas Gerais (UFMG) currently studying Quantitative Information Flow (QIF) and a formal model for interpreting privacy as resistance to inferences.
 
 More about QIF: [Topete Research Group](https://topete.science/)

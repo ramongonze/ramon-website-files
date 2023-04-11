@@ -18,10 +18,10 @@ content:
   # Contact details (edit or remove options as required)
   email: ramongonze@gmail.com
   address:
-    city: Belo Horizonte
-    country: Brazil
-    country_code: BR
-    region: Brazil
+    city: Palaiseau
+    country: France
+    country_code: FR
+    region: France
 design:
   columns: '2'
 ---
